@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657895768742",
+    "firebase_url": "https://apna-bazaar-23298.firebaseio.com",
+    "project_id": "apna-bazaar-23298",
+    "storage_bucket": "apna-bazaar-23298.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657895768742:android:6b9c6537fde0d49c262a67",
+        "android_client_info": {
+          "package_name": "com.example.apnabazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657895768742-vm69qi4q5bdkson2m5v2i4vre7mkrndf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYRNb0kysBV-HMINySMa9UWs0LKCH0SOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657895768742-vm69qi4q5bdkson2m5v2i4vre7mkrndf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
